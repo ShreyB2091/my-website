@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "shrey-bansal20",
+    "public": "./",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
